@@ -26,8 +26,8 @@ post '/' do
         :address              => 'smtp.gmail.com', 
         :port                 => '25', 
         :enable_starttls_auto => true, 
-        :user_name            => 'barache.nadia@gmail.com', 
-        :password             => 'saddeknadia20052013', 
+        :user_name            => 'exemple@gmail.com', 
+        :password             => 'xxxxxxxx', 
         :authentication       => :plain, 
         :domain               => 'localhost.localdomain'
       })
